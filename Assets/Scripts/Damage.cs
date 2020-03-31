@@ -5,6 +5,7 @@ using UnityEngine;
 public class Damage : MonoBehaviour
 {
     public int hp = 1;
+    public float damage = 1f;
     private float invinceTime = 0;
     private bool isInvincible = false;
     private void OnTriggerEnter2D(Collider2D collision)

@@ -29,6 +29,24 @@ TextureImporter:
   - first:
       213: 5908879583225798642
     second: GreenSprite
+  - first:
+      213: 613435604629981061
+    second: sheet_1
+  - first:
+      213: -1205295530684064057
+    second: enemy2
+  - first:
+      213: 1351510775623443009
+    second: enemy3
+  - first:
+      213: -3656531271222932061
+    second: sheet_2
+  - first:
+      213: -5965990452121583135
+    second: laser
+  - first:
+      213: 7895150657509526253
+    second: missile
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -333,6 +351,132 @@ TextureImporter:
       bones: []
       spriteID: c997e7ea2a6abc24c8b67ecb4b4619f1
       internalID: 5908879583225798642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 664
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1740acc268bf6469fb728830839e32
+      internalID: 613435604629981061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 615
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01683610847d06748903dc3febff3f51
+      internalID: -1205295530684064057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 790
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57c0564141a6044979fd8779eb5aa7
+      internalID: 1351510775623443009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 445
+        width: 3
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa06777b4f581d41b864f0803169f6e
+      internalID: -3656531271222932061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 385
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1160b7b3014ef98489352a557465185f
+      internalID: -5965990452121583135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missile
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 188
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1fce75f0eb6424189c3f489ae62eb2
+      internalID: 7895150657509526253
       vertices: []
       indices: 
       edges: []
